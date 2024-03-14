@@ -4,7 +4,6 @@ The template includes separate pages for both sign in and sign up functionalitie
 # Features:
 Sign In Page: Allows users to sign in to their accounts with their credentials.   
 Sign Up Page: Enables new users to create accounts by providing necessary details.   
-Responsive Design: The template is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.   
 Tailwind CSS: Utilizes Tailwind CSS for rapid development and easy customization.   
 Clean Codebase: Code is well-organized and commented, making it easy to understand and modify.   
 # Credits:
