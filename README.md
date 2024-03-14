@@ -1,1 +1,1 @@
-# Sign-In-and-Sign-Up-Template
+# Sign In and Sign Up Template
